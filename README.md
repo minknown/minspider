@@ -8,7 +8,7 @@ selenium框架：https://www.selenium.dev/
 如果不适用web.zip，只能使用本地磁盘保存抓取爬虫结果。   
 本源码涉及：图片加水印、JAVA正则、JAVA爬虫、JAVA下载文件、WordPress博客自动发布、PHP调用第第三分词、AI扩写接口等等功能。    
 ## 视频教程
-(视频分2集，篇幅较长，最后一个链接为视频原录制版需要lxe播放器播放)
+(视频分2集，篇幅较长，最后一个链接为视频原录制版需要lxe播放器播放)    
 https://github-minknown.oss-cn-beijing.aliyuncs.com/minspider-one.mp4   
 https://github-minknown.oss-cn-beijing.aliyuncs.com/minspider-two.mp4    
 https://github-minknown.oss-cn-beijing.aliyuncs.com/minspivideos.zip    

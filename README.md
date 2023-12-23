@@ -2,6 +2,7 @@
 一个基于JAVA构建的爬虫程序  
 ## 指南
 适用于抓取带页面导航条的页面，以及拥有相关文章的爬虫，不懂JAVA也能爬虫，只要会写Deal脚本即可，爬虫抓包变得如此简单。   
+完成爬虫任务，只需要配置config.ini和dealer处理器即可完成整个爬虫过程。    
 minspider.zip：JAVA爬虫源码  
 web.zip：服务器接口，基于PHP  
 selenium框架：https://www.selenium.dev/   
